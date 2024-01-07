@@ -3,7 +3,6 @@ site_url: https://pwstorey.github.io/
 theme:
   name: material
   features:
-    - navigation.tabs
     - search.suggest
     - search.highlight
   language: en
