@@ -1,0 +1,1 @@
+# How to set-up PXE booting from shared network drive
