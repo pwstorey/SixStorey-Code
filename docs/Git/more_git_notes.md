@@ -9,8 +9,8 @@ To set-up git on your local computer the following commands are useful:
 
 ```bash
 git config --list 
-git config --global user.email "p.w.storey@gmail.com"
-git config --global user.name "Paul Storey" 
+git config --global user.email "<Email Address>"
+git config --global user.name "<Name>" 
 ```
 
 ## How to start a new local project 
