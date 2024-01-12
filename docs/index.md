@@ -1,8 +1,10 @@
 
-# This is the Home page
+# SixStorey Code
 
-I need to think of something useful to live here! 
+## Ideas 
 
-## Subheading
-
-What is all this going to be about? 
+- VS Code keyboard shortcuts 
+- Streamlit Applications 
+- Google Sheets as a database 
+- Xero API 
+- Docker, Kubernetes - Container management for Home Labs
