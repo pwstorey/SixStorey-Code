@@ -1,6 +1,6 @@
-# The Workflow for updating site 
+# The Workflow for updating this site 
 
-## Updating and building MkDocs 
+## Updating and building MkDocs then pushing to GitHub 
 
 Make sure that the virtual environment has been activated with: 
 
@@ -28,3 +28,4 @@ git commit -m "message"
 git push orgin main 
 ```
 
+This can take a minute or two to update on the live website. 

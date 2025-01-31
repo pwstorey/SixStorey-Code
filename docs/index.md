@@ -8,3 +8,7 @@
 - Google Sheets as a database 
 - Xero API 
 - Docker, Kubernetes - Container management for Home Labs
+- FastAPI 
+- FastHTML 
+- React 
+
